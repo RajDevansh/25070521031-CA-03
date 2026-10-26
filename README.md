@@ -37,7 +37,7 @@ Install:
    npm start
    ```
 
-7. Open http://localhost:3000 in Chrome.
+7. Open http://localhost:3002 in Chrome.
 8. Create a task. It should appear in the dashboard.
 
 ## See the data in MongoDB Compass
