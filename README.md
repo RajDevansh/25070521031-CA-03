@@ -54,7 +54,7 @@ The .env file is created locally and must not be committed to GitHub.
 
 Example local configuration:
 
-    PORT=3001
+    PORT=3002
     MONGODB_URI=mongodb://127.0.0.1:27017/taskflowDB
     JWT_SECRET=replace_with_your_own_random_secret
 
@@ -68,7 +68,7 @@ From the Server directory, execute:
 
 When MongoDB connects successfully, open:
 
-    http://localhost:3001
+    http://localhost:3002
 
 Register an account to start creating tasks.
 
